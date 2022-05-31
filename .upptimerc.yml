@@ -13,8 +13,7 @@ assignees:
   - "adrianhorizon"
 
 status-website:
-  baseUrl: /upptime
-  # cname: "zuluapp.github.io"
+  cname: "zuluapp.github.io"
   logoUrl: "https://avatars.githubusercontent.com/u/96034374?s=200&v=4"
   favicon: "https://avatars.githubusercontent.com/u/96034374?s=200&v=4"
   name: ""
