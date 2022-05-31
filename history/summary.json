@@ -1,8 +1,8 @@
 [
   {
     "name": "zuluapp",
-    "url": "https://www.zuluapp.io/",
-    "icon": "https://favicons.githubusercontent.com/www.zuluapp.io",
+    "url": "$SECRET_SITE_ZULU",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "zuluapp",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 317,
-    "timeDay": 298,
-    "timeWeek": 345,
-    "timeMonth": 317,
-    "timeYear": 317,
+    "time": 358,
+    "timeDay": 611,
+    "timeWeek": 417,
+    "timeMonth": 358,
+    "timeYear": 358,
     "dailyMinutesDown": {}
   }
 ]
