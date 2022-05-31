@@ -1,44 +1,43 @@
 ---
-    owner: "zuluapp"
-    repo: "upptime"
+owner: "zuluapp"
+repo: "upptime"
 
-    sites:
-      - name: zuluapp
-        url: https://www.zuluapp.io/
-        maxResponseTime: 2000
-        expectedStatusCodes:
-          - 200
+sites:
+  - name: zuluapp
+    url: https://www.zuluapp.io/
+    maxResponseTime: 2000
+    expectedStatusCodes:
+      - 200
 
-    assignees:
-      - "adrianhorizon"
+assignees:
+  - "adrianhorizon"
 
-    status-website:
-      baseUrl: /upptime
-      # cname: "zuluapp.github.io"
-      logoUrl: "https://avatars.githubusercontent.com/u/96034374?s=200&v=4"
-      favicon: "https://avatars.githubusercontent.com/u/96034374?s=200&v=4"
-      name: ""
-      introTitle: "**Upptime** State of Services"
-      introMessage: This is the real time service status page for Zulu
-      navbar:
-        - title: Status
-          href: /
-        - title: GitHub
-          href: https://github.com/$OWNER/$REPO
-      metaTags:
-        - name: "color-scheme"
-          content: "light"
-        - name: "robots"
-          content: "noindex"
+status-website:
+  baseUrl: /upptime
+  # cname: "zuluapp.github.io"
+  logoUrl: "https://avatars.githubusercontent.com/u/96034374?s=200&v=4"
+  favicon: "https://avatars.githubusercontent.com/u/96034374?s=200&v=4"
+  name: ""
+  introTitle: "**Upptime** State of Services"
+  introMessage: This is the real time service status page for Zulu
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+  metaTags:
+    - name: "color-scheme"
+      content: "light"
+    - name: "robots"
+      content: "noindex"
 
-      workflowSchedule:
-        graphs: "0 0 * * *"
-        responseTime: "0 23 * * *"
-        staticSite: "0 1 * * *"
-        summary: "0 0 * * *"
-        updateTemplate: "0 0 * * *"
-        updates: "0 3 * * *"
-        uptime: "*/5 * * * *"
-      
-      user-agent: "adrianhorizon"
-        
+  workflowSchedule:
+    graphs: "0 0 * * *"
+    responseTime: "0 23 * * *"
+    staticSite: "0 1 * * *"
+    summary: "0 0 * * *"
+    updateTemplate: "0 0 * * *"
+    updates: "0 3 * * *"
+    uptime: "*/5 * * * *"
+
+  user-agent: "adrianhorizon"
