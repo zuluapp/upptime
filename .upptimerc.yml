@@ -4,7 +4,7 @@ repo: "upptime"
 
 sites:
   - name: zuluapp
-    url: https://www.zuluapp.io/
+    url: $SECRET_SITE_ZULU
     maxResponseTime: 2000
     expectedStatusCodes:
       - 200
